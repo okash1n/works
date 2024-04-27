@@ -1,5 +1,5 @@
 version: '1'
 rules:
-  - base: main
+  - base: dev
     upstream: otoyo:main
     mergeMethod: hardreset
